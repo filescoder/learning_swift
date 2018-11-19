@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F486350F21A2FE2300C4A096 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F486350E21A2FE2300C4A096 /* DetailViewController.swift */; };
 		F4CEECBA21A2E52D00A30F4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CEECB921A2E52D00A30F4D /* AppDelegate.swift */; };
 		F4CEECBC21A2E52D00A30F4D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CEECBB21A2E52D00A30F4D /* ViewController.swift */; };
 		F4CEECBF21A2E52D00A30F4D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4CEECBD21A2E52D00A30F4D /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F486350E21A2FE2300C4A096 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		F4CEECB621A2E52D00A30F4D /* project_01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project_01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CEECB921A2E52D00A30F4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4CEECBB21A2E52D00A30F4D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				F4CEECB921A2E52D00A30F4D /* AppDelegate.swift */,
 				F4CEECBB21A2E52D00A30F4D /* ViewController.swift */,
 				F4CEECBD21A2E52D00A30F4D /* Main.storyboard */,
+				F486350E21A2FE2300C4A096 /* DetailViewController.swift */,
 				F4CEECC021A2E52E00A30F4D /* Assets.xcassets */,
 				F4CEECC221A2E52E00A30F4D /* LaunchScreen.storyboard */,
 				F4CEECC521A2E52E00A30F4D /* Info.plist */,
@@ -183,6 +186,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F486350F21A2FE2300C4A096 /* DetailViewController.swift in Sources */,
 				F4CEECBC21A2E52D00A30F4D /* ViewController.swift in Sources */,
 				F4CEECBA21A2E52D00A30F4D /* AppDelegate.swift in Sources */,
 			);
